@@ -11,9 +11,9 @@ Consider in a small town, a government hospital does not have the equipment to t
 ### Goals
 We have to create a prototype that solves the issues mentioned above. 
 Features:  
-  • Patients' records must be maintained on the platform, sharing while referring to other government hospitals. 
-  • The government hospitals must have a way to connect with other government hospitals. 
-  • Referring patients to other government hospitals must be made seamless. • Make sure you add all features required to make the platform ready and easy to use in the real world.
+  • Patients' records must be maintained on the platform, sharing while referring to other government hospitals. <br>
+  • The government hospitals must have a way to connect with other government hospitals. <br>
+  • Referring patients to other government hospitals must be made seamless. • Make sure you add all features required to make the platform ready and easy to use in the real world. <br>
   
  ### Tech Stacks
   • HTML
