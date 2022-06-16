@@ -16,4 +16,4 @@ Features:
   • Referring patients to other government hospitals must be made seamless. • Make sure you add all features required to make the platform ready and easy to use in the real world.
   
  ### Tech Stacks
- ![image](https://user-images.githubusercontent.com/94731261/174109056-f5e66efc-cc52-4333-a0c9-ac79bafc49f0.png = 80x80)
+ ![image](https://user-images.githubusercontent.com/94731261/174109056-f5e66efc-cc52-4333-a0c9-ac79bafc49f0.png)
