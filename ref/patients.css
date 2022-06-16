@@ -21,7 +21,7 @@ body{
     font-family: Gilroy;    
     background-image: url(images/dijin-waves.png);
     background-color: #f5f5f7;
-    background-size: 1580px 100vh;
+    background-size: 100vw 100vh;
     background-attachment: fixed;
 }
 section{
@@ -33,7 +33,7 @@ section{
     align-items: center;
     background-image: url(images/dijin-waves.png);
     background-color: #f5f5f7;
-    background-size: 1580px 100vh;
+    background-size: 100vw 100vh;
     background-attachment: fixed;
 }
 .centre{
@@ -50,7 +50,7 @@ section{
 .left{
     height: 400px;
     width:400px;
-    background-color: #e63946;
+    background-color: #3EA4DC;
     grid-row-start: 1;
     grid-row-end: 2 ;
     display: flex;
@@ -71,7 +71,7 @@ section{
     justify-content: center;
 }
 .imgbx{
-    background-color: #e63946;
+    background-color: #3EA4DC;
     height: 120px;
     width: 300px;
     grid-column-start: 1;
@@ -209,7 +209,7 @@ section{
 
 }
 .box5{
-    background-color: #e63946;
+    background-color: #3EA4DC;
     height: 50px;
     width: 130px;
     grid-column-start: 1;
@@ -290,7 +290,7 @@ footer>div>span>a{
     color:rgb(255, 255, 255)
 }
 footer>div>span>a:hover{
-    color:#e63946;
+    color:#3EA4DC;
 }
 
 
